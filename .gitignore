@@ -1,6 +1,5 @@
 bin/
 !/bin
-lib/
 node_modules/
 
 packages/typescript-json/src/
